@@ -32,6 +32,7 @@ public class GameBoard
 			Board.Add(X);
         }
 		// MessageBox Board TEMP
+		/*
 		string print = null;
 		int _x = 0;
 		foreach (var x in Board)
@@ -44,5 +45,6 @@ public class GameBoard
 			_x++;
 		}
 		MessageBox.Show(print);
+		*/
 	}
 }
